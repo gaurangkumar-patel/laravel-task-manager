@@ -5,7 +5,7 @@
 @section('content')
 <div class="header-row">
     <div>
-        <p class="eyebrow">Laravel 11</p>
+        <p class="eyebrow">Laravel 13</p>
         <h1>Task Manager</h1>
         <p class="muted">Create, edit, delete and reorder tasks by dragging them.</p>
     </div>
