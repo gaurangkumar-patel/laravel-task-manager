@@ -12,6 +12,16 @@
         @yield('content')
     </main>
 
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <span>Built by Gaurang Patel</span>
+            <span class="footer-separator" aria-hidden="true">·</span>
+            <a href="https://www.linkedin.com/in/gaurangpatel2326" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <span class="footer-separator" aria-hidden="true">·</span>
+            <a href="https://github.com/gaurangkumar-patel" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </div>
+    </footer>
+
     <script src="{{ asset('js/tasks.js') }}" defer></script>
 </body>
 </html>
