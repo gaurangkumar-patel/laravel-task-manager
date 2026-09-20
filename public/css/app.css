@@ -250,3 +250,33 @@ select:focus {
         justify-content: flex-end;
     }
 }
+
+
+.site-footer {
+    padding: 8px 16px 32px;
+    color: #667085;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.footer-inner {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.site-footer a {
+    color: #4f46e5;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
+
+.footer-separator {
+    color: #cbd5e1;
+}
