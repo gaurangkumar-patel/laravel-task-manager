@@ -1,6 +1,6 @@
 # Laravel Task Manager
 
-A small task-management web application built for the coding exercise. It uses Laravel 11, PHP 8.3+, Blade, native browser drag-and-drop and MySQL.
+A small task-management web application built for the coding exercise. It uses Laravel 13, PHP 8.3+, Blade, native browser drag-and-drop and MySQL.
 
 ## Features
 
